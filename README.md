@@ -1,14 +1,28 @@
-<h3 align="center"> <b>Olá, me chamo Robson Santos !</b></h3>
+<h3 align="center"> <b> Olá! 👋 , me chamo Robson Santos !</b></h3>
 <hr>
 
 <p align="center">
-  Sou formado em Tecnologia da Informação e atualmente cursando bacharel em Ciência da Computação, pelo Instituto Federal de São Paulo. Amante da tecnologia e apaixonado por acompanhar a evolução e as novidades do mercado tecnológico, além de ser fisurado por desafios😁.
+  Sou estudante de Ciência da Computação e entusiasta de Infraestrutura e Automação
+
+Sou um desenvolvedor e pesquisador em formação, focado em entender e otimizar ecossistemas de TI "por baixo dos panos" — desde a manipulação de estruturas de dados e alocação de arquivos em C até a implementação de governança de serviços. Acredito que a tecnologia alcança seu potencial máximo quando é bem padronizada e automatizada.
+
+## 🚀 Sobre mim
+* 🎓 **Acadêmico:** Graduando em Ciência da Computação.
+* 🔬 **Pesquisa Científica:** Concluí recentemente meu projeto de pesquisa exploratória voltado para o estudo de incêndios.
+
+
+
+## 🛠️ Stack Tecnológico
+* **Linguagens:** Shell Script (Bash), Python, C.
+* **Sistemas e Arquitetura:** Linux, Cron, Systemd, manipulação de processos, redirecionamento e permissões.
+
+
 </p>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   Atualmente estou desemvolvendo um projeto de pesquisa para monitoramento de queimadas e estimativa de gases emitidos pelo incêndio.
-</p>
+</p> -->
 <br>
 
 
@@ -21,7 +35,6 @@
 
 <div>
 
-<a href="https://instagram.com/robson.b.santos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rb9344062@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/robson-santos-8aab7a207" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
