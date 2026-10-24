@@ -1,30 +1,15 @@
-<h3 align="center"> <b> Olá! 👋 , me chamo Robson Santos !</b></h3>
+<h3 align="center"><b>Olá 👋, eu sou o Robson Santos!</b></h3>
 <hr>
 
 <p align="center">
-  Sou estudante de Ciência da Computação e entusiasta de Infraestrutura e Automação
-
-Sou um desenvolvedor e pesquisador em formação, focado em entender e otimizar ecossistemas de TI "por baixo dos panos" — desde a manipulação de estruturas de dados e alocação de arquivos em C até a implementação de governança de serviços. Acredito que a tecnologia alcança seu potencial máximo quando é bem padronizada e automatizada.
-
-## 🚀 Sobre mim
-* 🎓 **Acadêmico:** Graduando em Ciência da Computação.
-* 🔬 **Pesquisa Científica:** Concluí recentemente meu projeto de pesquisa exploratória voltado para o estudo de incêndios.
-
-
-
-## 🛠️ Stack Tecnológico
-* **Linguagens:** Shell Script (Bash), Python, C.
-* **Sistemas e Arquitetura:** Linux, Cron, Systemd, manipulação de processos, redirecionamento e permissões.
-
-
+  Sou formado em Tecnologia da Informação e atualmente graduando em Ciência da Computação pelo Instituto Federal de São Paulo (IFSP). Sou um entusiasta da área, sempre acompanhando as inovações do mercado e altamente motivado pela resolução de desafios complexos.
 </p>
 <br>
 
-<!-- <p align="center">
-  Atualmente estou desemvolvendo um projeto de pesquisa para monitoramento de queimadas e estimativa de gases emitidos pelo incêndio.
-</p> -->
+<p align="center">
+  Recentemente, concluí um projeto de pesquisa focado no monitoramento de queimadas e na estimativa de gases emitidos por incêndios, aplicando a tecnologia na busca por soluções de impacto ambiental.
+</p>
 <br>
-
 
 ## Ferramentas e Tecnologias
 
